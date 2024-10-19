@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Apoorva+Gupta;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=58a6ff">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Apoorva+Gupta;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=58a6ff&width=500&height=100&duration=4000">
 </h1>
 
 <p align="center">
@@ -25,27 +25,70 @@
 
 <br clear="right"/>
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-</p>
+<table>
+  <tr>
+    <td>Languages</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td>ML/DL</td>
+    <td>
+      <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td>Data Processing</td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td>Data Visualization</td>
+    <td>
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Seaborn-76b900?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td>Big Data</td>
+    <td>
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white">
+      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td>DevOps</td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td>IDEs/Notebooks</td>
+    <td>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apoorva-info&show_icons=true&theme=tokyonight" alt="Apoorva's GitHub Stats" height="170">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorva-info&theme=tokyonight" alt="Apoorva's Streak" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorva-info&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ## 🔥 Featured Projects
@@ -99,20 +142,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=apoorva-info&theme=react-dark" alt="Contribution Graph" width="100%">
 </p>
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apoorva-info&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
-
 <hr>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+connect+and+collaborate!&center=true&size=25&color=58a6ff">
-</p>
-
-<p align="center">
-  <a href="https://github.com/apoorva-info/apoorva-info/blob/main/README.md">
-    <img src="https://img.shields.io/badge/Check%20out%20my%20README-222222?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </p>
