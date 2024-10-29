@@ -19,7 +19,7 @@
 
 - 🎓 M.Sc. Computer Science for Digital Media at Bauhaus Universität
 - 🌍 Based in Weimar, Germany
-- 💼 Aspiring Data Scientist and Software Developer
+- 💼 Aspiring Data Scientist
 - 🚀 Passionate about AI, Machine Learning, and Data Engineering
 - 🌱 Always learning and exploring new technologies
 
