@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apoorva-info&show_icons=true&theme=tokyonight" alt="Apoorva's GitHub Stats" height="170">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorva-info&theme=tokyonight" alt="Apoorva's Streak" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=apoorva-info&show_icons=true&theme=tokyonight" alt="Apoorva's GitHub Stats" height="170">
 </p>
 
 ## 🔥 Featured Projects
