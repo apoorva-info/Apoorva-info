@@ -1,3 +1,7 @@
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; margin: 20px 0;">
+<div align="center">
+<img src="images/einsteinfieldeq.jpg" title="Einstein field equations" width="500"/>
+</div>
 
 ---
 <p align="center">
@@ -12,8 +16,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorva-info&theme=tokyonight" alt="Apoorva's Streak" height="170">
-  <img src="https://github-readme-stats.vercel.app/api?username=apoorva-info&show_icons=true&theme=tokyonight" alt="Apoorva's GitHub Stats" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorva-info&theme=tokyonight" alt="Apoorva's Streak" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=apoorva-info&show_icons=true&theme=tokyonight" alt="Apoorva's GitHub Stats" height="150">
 </p>
 
 ---
+
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; margin: 20px 0;">
+<div align="center">
+<img src="images/Spacetime_lattice.png" title="Spacetime Lattice" width="500"/>
+</div>
+</div>
